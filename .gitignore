@@ -1,0 +1,15 @@
+.idea
+.vs
+*.*~
+*.swp
+*.DotSettings.user
+ScriptingPrototype
+
+*.dll
+*.pdb
+*.exe
+*.spr
+*.dat
+*.pic
+obj/
+bin/
